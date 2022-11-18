@@ -19,8 +19,8 @@ template.innerHTML = `
     </div>
 `;
 
-/**Yanıt sayısı 4 ile sınırlıdır */
-const nestingLimit = 4;
+/**Yanıt sayısı 2 ile sınırlıdır */
+const nestingLimit = 2;
 
 export class comment extends HTMLElement {
     constructor() {
