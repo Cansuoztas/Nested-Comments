@@ -5,9 +5,10 @@
 }
 
 body {
-    background: #333;
+    background: rgba(241, 239, 231, 0.753);
     font-family: Arial, Helvetica, sans-serif;
-    color: #fff;
+    color: gray;
+
 }
 
 .container {
